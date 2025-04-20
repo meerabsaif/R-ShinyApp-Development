@@ -11,7 +11,7 @@ library(Biostrings)                  #to handle biological sequences, handles fa
 library(seqinr)                      #handles sequence input and output, also provides tools foe seq manipulation and analysis
 
 ui<- fluidPage (
-  title = "Simple MSA App", 
+  titlePanel ("Simple MSA App"), 
   sidebarLayout(
     sidebarPanel (                   #input here 
     
