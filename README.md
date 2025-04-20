@@ -4,4 +4,4 @@ This repository consists of:
 - Adding widgets to the Apps
 - Simple apps like: calculator, time tracker
 - Simple App for Multiple Sequence Alignment 
-  
+- Ehanced version of MSA App with more features
